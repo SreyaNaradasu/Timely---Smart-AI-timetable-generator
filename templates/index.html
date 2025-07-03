@@ -1,1 +1,165 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>📚 Timely - Smart Timetable Generator</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Roboto', sans-serif;
+      background: linear-gradient(to right, #f0f8ff, #e6f2ff);
+      padding: 2vh 4vw;
+      overflow-x: hidden;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 2.5em;
+      color: #003366;
+      margin-bottom: 2vh;
+    }
+
+    form {
+      text-align: center;
+      margin-bottom: 2vh;
+    }
+
+    label {
+      font-size: 1.1em;
+      margin-right: 0.5em;
+    }
+
+    select {
+      font-size: 1em;
+      padding: 0.5em 1em;
+      border-radius: 6px;
+      border: 1px solid #007BFF;
+      margin-right: 1em;
+    }
+
+    button {
+      padding: 0.5em 1.5em;
+      font-size: 1em;
+      background: #007BFF;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+
+    button:hover {
+      background: #0056b3;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 3vh;
+      background-color: white;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      table-layout: fixed;
+    }
+
+    th, td {
+      padding: 1vh;
+      text-align: center;
+      border: 1px solid #ddd;
+      vertical-align: middle;
+      word-wrap: break-word;
+      font-size: 0.95em;
+    }
+
+    th {
+      background-color: #f7faff;
+      color: #003366;
+      font-weight: 500;
+    }
+
+    td {
+      color: #333;
+      line-height: 1.3em;
+      height: 70px;
+    }
+
+    .footer {
+      text-align: center;
+      margin-top: 3vh;
+      color: #666;
+      font-size: 0.9em;
+    }
+
+    @media (max-width: 768px) {
+      th, td {
+        font-size: 0.8em;
+        padding: 1vh 0.5vw;
+      }
+    }
+
+    /* Animations */
+    table {
+      animation: fadeIn 0.8s ease;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+  <h1>📚 Timely - Smart Timetable Generator</h1>
+
+  <form method="POST">
+    <label for="semester">Select Semester:</label>
+    <select name="semester" required>
+      {% for sem in range(1, 9) %}
+        <option value="{{ sem }}" {% if selected_semester == sem %}selected{% endif %}>Semester {{ sem }}</option>
+      {% endfor %}
+    </select>
+
+    <label for="section">Select Section:</label>
+    <select name="section" required>
+      {% for sec in ['A', 'B', 'C', 'D', 'E', 'F'] %}
+        <option value="{{ sec }}" {% if selected_section == sec %}selected{% endif %}>Section {{ sec }}</option>
+      {% endfor %}
+    </select>
+
+    <button type="submit">✨ Generate Timetable</button>
+  </form>
+
+  {% if timetable %}
+    <h2 style="text-align:center; margin-top: 1em;">🗓 Timetable for Semester {{ selected_semester }}, Section {{ selected_section }}</h2>
+    <div style="overflow-x: auto;">
+      <table>
+        <tr>
+          <th>Day</th>
+          {% for slot in time_slots %}
+            <th>{{ slot }}</th>
+          {% endfor %}
+        </tr>
+        {% for day, slots in timetable.items() %}
+          <tr>
+            <td><b>{{ day }}</b></td>
+            {% for time in time_slots %}
+              <td>{{ slots.get(time, '')|safe }}</td>
+            {% endfor %}
+          </tr>
+        {% endfor %}
+      </table>
+    </div>
+  {% endif %}
+
+  <div class="footer">
+    ✨ Built with Flask • Amrita CSE ✨
+  </div>
+</body>
+</html>
