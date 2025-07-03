@@ -1,0 +1,303 @@
+Semester,Section,Course Code,Subject,Faculty,Venue
+1,A,19ENG111,Technical Communication,Dr. A. Radhika,AB1-101
+1,A,19MAT101,Single Variable Calculus,Dr. B. Kumar,AB1-102
+1,A,19MAT111,Multivariable Calculus,Dr. C. Rao,AB1-103
+1,A,19MAT102,Matrix Algebra,Dr. D. Iyer,AB1-104
+1,A,19CSE100,Problem Solving and Algorithmic Thinking,Dr. E. Sharma,AB1-105
+1,A,19MEE100,Engineering Graphics - CAD,Dr. F. Kannan,AB1-106
+1,A,19CSE101,Computer Systems Essentials,Dr. G. Mehta,AB1-107
+1,A,19CSE180,Computer Hardware Essentials,Dr. H. Roy,AB1-108
+1,A,22ADM101,Foundations of Indian Heritage,Dr. I. Das,AB1-109
+1,A,22AVP103,Mastery over Mind (MAOM),Dr. J. Ravi,AB1-110
+2,A,19CSE102,Computer Programming,Dr. K. Varma,AB2-201
+2,A,19CSE103,User Interface Design,Dr. L. Nair,AB2-202
+2,A,19CSE111,Fundamentals of Data Structures,Dr. M. Narayan,AB2-203
+2,A,19EEE111,Electrical and Electronics Engineering,Dr. N. Arul,AB2-204
+2,A,19EEE182,E&E Engineering Practice,Dr. O. Francis,AB2-205
+2,A,19MAT112,Linear Algebra,Dr. P. Dasgupta,AB2-206
+2,A,19MAT115,Discrete Mathematics,Dr. Q. Ghosh,AB2-207
+2,A,19MEE181,Manufacturing Practice,Dr. R. Mahesh,AB2-208
+2,A,22ADM111,Glimpses of Glorious India,Dr. S. Reddy,AB2-209
+3,A,19MAT201,Numerical Methods,Dr. T. Sinha,AB3-301
+3,A,19MAT202,Optimization Techniques,Dr. U. Menon,AB3-302
+3,A,19CSE201,Advanced Programming,Dr. V. Singh,AB3-303
+3,A,19CSE202,Database Management System,Dr. W. Iyer,AB3-304
+3,A,19CSE204,Object Oriented Paradigm,Dr. X. George,AB3-305
+3,A,19ECE204,Digital Electronics and Systems,Dr. Y. Rao,AB3-306
+3,A,19ECE282,Digital Electronics Lab,Dr. Z. Kumar,AB3-307
+3,A,22ADM211,Leadership from Ramayana,Dr. A. Iyer,AB3-308
+4,A,19MAT205,Probability and Random Processes,Dr. B. Narayan,AB4-401
+4,A,19CSE211,Computer Org. and Arch.,Dr. C. Venkatesh,AB4-402
+4,A,19CSE212,Data Structures and Algorithms,Dr. D. Dutta,AB4-403
+4,A,19CSE213,Operating Systems,Dr. E. Kiran,AB4-404
+4,A,19CSE214,Theory of Computation,Dr. F. Gopal,AB4-405
+4,A,19HUM240,Psychology for Engineers,Dr. G. Sinha,AB4-406
+4,A,19SSK211,Soft Skills I,Dr. H. Raj,AB4-407
+4,A,22ADM201,Lessons from Mahabharata,Dr. I. Nambiar,AB4-408
+5,A,19CSE301,Computer Networks,Dr. J. Anand,AB5-501
+5,A,19CSE302,Design and Analysis of Algorithms,Dr. K. Harsha,AB5-502
+5,A,19CSE303,Embedded Systems,Dr. L. Kishore,AB5-503
+5,A,19CSE304,Foundations of Data Science,Dr. M. Geetha,AB5-504
+5,A,19CSE305,Machine Learning,Dr. N. Varun,AB5-505
+5,A,19ENV300,Environmental Science,Dr. O. Bose,AB5-506
+5,A,19SSK301,Soft Skills II,Dr. P. Arora,AB5-507
+5,A,19CSE451,Principles of AI,Dr. Q. Das,AB5-508
+6,A,19CSE311,Computer Security,Dr. R. Prakash,AB6-601
+6,A,19CSE312,Distributed Systems,Dr. S. Mohan,AB6-602
+6,A,19CSE313,Principles of Programming Languages,Dr. T. Saranya,AB6-603
+6,A,19CSE314,Software Engineering,Dr. U. Babu,AB6-604
+6,A,19CSE332,Information Security,Dr. V. Mani,AB6-605
+6,A,19CSE342,Wireless & Mobile Comm.,Dr. W. Singh,AB6-606
+6,A,19SSK311,Soft Skills III,Dr. X. Praveen,AB6-607
+1,B,19ENG111,Technical Communication,Dr. P. Anand,AB1-117
+1,B,19MAT101,Single Variable Calculus,Dr. D. Sinha,AB1-114
+1,B,19MAT111,Multivariable Calculus,Dr. T. Verma,AB1-111
+1,B,19MAT102,Matrix Algebra,Dr. A. Krishnan,AB1-119
+1,B,19CSE100,Problem Solving and Algorithmic Thinking,Dr. K. Nair,AB1-113
+1,B,19MEE100,Engineering Graphics - CAD,Dr. V. Rajan,AB1-120
+1,B,19CSE101,Computer Systems Essentials,Dr. S. Ram,AB1-118
+1,B,19CSE180,Computer Hardware Essentials,Dr. H. Natarajan,AB1-116
+1,B,22ADM101,Foundations of Indian Heritage,Dr. N. Gokul,AB1-115
+1,B,22AVP103,Mastery over Mind (MAOM),Dr. Z. Lal,AB1-112
+2,B,19CSE102,Computer Programming,Dr. A. Ghosh,AB2-217
+2,B,19CSE103,User Interface Design,Dr. D. Krishna,AB2-212
+2,B,19CSE111,Fundamentals of Data Structures,Dr. M. Jayaraman,AB2-211
+2,B,19EEE111,Electrical and Electronics Engineering,Dr. R. Suresh,AB2-213
+2,B,19EEE182,E&E Engineering Practice,Dr. L. Srinivas,AB2-218
+2,B,19MAT112,Linear Algebra,Dr. B. Iyer,AB2-216
+2,B,19MAT115,Discrete Mathematics,Dr. X. Mani,AB2-219
+2,B,19MEE181,Manufacturing Practice,Dr. F. Rao,AB2-215
+2,B,22ADM111,Glimpses of Glorious India,Dr. E. Shankar,AB2-214
+3,B,19MAT201,Numerical Methods,Dr. N. Lakshmi,AB3-316
+3,B,19MAT202,Optimization Techniques,Dr. Y. George,AB3-313
+3,B,19CSE201,Advanced Programming,Dr. K. Vimal,AB3-312
+3,B,19CSE202,Database Management System,Dr. T. Gupta,AB3-314
+3,B,19CSE204,Object Oriented Paradigm,Dr. J. Nath,AB3-315
+3,B,19ECE204,Digital Electronics and Systems,Dr. I. Pranav,AB3-317
+3,B,19ECE282,Digital Electronics Lab,Dr. A. Dev,AB3-318
+3,B,22ADM211,Leadership from Ramayana,Dr. M. Raman,AB3-319
+4,B,19MAT205,Probability and Random Processes,Dr. Q. Subha,AB4-414
+4,B,19CSE211,Computer Org. and Arch.,Dr. U. Dinesh,AB4-413
+4,B,19CSE212,Data Structures and Algorithms,Dr. R. Rao,AB4-411
+4,B,19CSE213,Operating Systems,Dr. V. Neha,AB4-415
+4,B,19CSE214,Theory of Computation,Dr. W. Murthy,AB4-416
+4,B,19HUM240,Psychology for Engineers,Dr. L. Vinay,AB4-417
+4,B,19SSK211,Soft Skills I,Dr. D. Sanjay,AB4-418
+4,B,22ADM201,Lessons from Mahabharata,Dr. H. Abhinav,AB4-419
+5,B,19CSE301,Computer Networks,Dr. J. Madhavan,AB5-513
+5,B,19CSE302,Design and Analysis of Algorithms,Dr. E. Rakesh,AB5-514
+5,B,19CSE303,Embedded Systems,Dr. Y. Ajay,AB5-515
+5,B,19CSE304,Foundations of Data Science,Dr. B. Tanvi,AB5-516
+5,B,19CSE305,Machine Learning,Dr. O. Sahana,AB5-517
+5,B,19ENV300,Environmental Science,Dr. C. Anirudh,AB5-518
+5,B,19SSK301,Soft Skills II,Dr. T. Naveen,AB5-519
+5,B,19CSE451,Principles of AI,Dr. Z. Kavya,AB5-520
+6,B,19CSE311,Computer Security,Dr. F. Manoj,AB6-612
+6,B,19CSE312,Distributed Systems,Dr. R. Vishal,AB6-613
+6,B,19CSE313,Principles of Programming Languages,Dr. G. Karthik,AB6-614
+6,B,19CSE314,Software Engineering,Dr. S. Harini,AB6-615
+6,B,19CSE332,Information Security,Dr. M. Sudeep,AB6-616
+6,B,19CSE342,Wireless & Mobile Comm.,Dr. P. Tejas,AB6-617
+6,B,19SSK311,Soft Skills III,Dr. V. Aarti,AB6-618
+1,C,19ENG111,Technical Communication,Dr. I. Venkatesh,AB1-121
+1,C,19MAT101,Single Variable Calculus,Dr. A. Srivastava,AB1-122
+1,C,19MAT111,Multivariable Calculus,Dr. R. Karthika,AB1-123
+1,C,19MAT102,Matrix Algebra,Dr. D. Sagar,AB1-124
+1,C,19CSE100,Problem Solving and Algorithmic Thinking,Dr. B. Tarun,AB1-125
+1,C,19MEE100,Engineering Graphics - CAD,Dr. M. Revathi,AB1-126
+1,C,19CSE101,Computer Systems Essentials,Dr. F. Naresh,AB1-127
+1,C,19CSE180,Computer Hardware Essentials,Dr. U. Chitra,AB1-128
+1,C,22ADM101,Foundations of Indian Heritage,Dr. Q. Mahendra,AB1-129
+1,C,22AVP103,Mastery over Mind (MAOM),Dr. V. Kiran,AB1-130
+2,C,19CSE102,Computer Programming,Dr. G. Aakash,AB2-221
+2,C,19CSE103,User Interface Design,Dr. N. Harshita,AB2-222
+2,C,19CSE111,Fundamentals of Data Structures,Dr. L. Sunder,AB2-223
+2,C,19EEE111,Electrical and Electronics Engineering,Dr. H. Deepak,AB2-224
+2,C,19EEE182,E&E Engineering Practice,Dr. X. Meenal,AB2-225
+2,C,19MAT112,Linear Algebra,Dr. Y. Vishnu,AB2-226
+2,C,19MAT115,Discrete Mathematics,Dr. C. Rohit,AB2-227
+2,C,19MEE181,Manufacturing Practice,Dr. T. Lakshmi,AB2-228
+2,C,22ADM111,Glimpses of Glorious India,Dr. P. Sharanya,AB2-229
+3,C,19MAT201,Numerical Methods,Dr. A. Ganesh,AB3-321
+3,C,19MAT202,Optimization Techniques,Dr. D. Shree,AB3-322
+3,C,19CSE201,Advanced Programming,Dr. M. Tej,AB3-323
+3,C,19CSE202,Database Management System,Dr. E. Prerna,AB3-324
+3,C,19CSE204,Object Oriented Paradigm,Dr. J. Vaibhav,AB3-325
+3,C,19ECE204,Digital Electronics and Systems,Dr. F. Rekha,AB3-326
+3,C,19ECE282,Digital Electronics Lab,Dr. W. Sneha,AB3-327
+3,C,22ADM211,Leadership from Ramayana,Dr. K. Vishakha,AB3-328
+4,C,19MAT205,Probability and Random Processes,Dr. S. Arvind,AB4-421
+4,C,19CSE211,Computer Org. and Arch.,Dr. O. Harika,AB4-422
+4,C,19CSE212,Data Structures and Algorithms,Dr. R. Naveen,AB4-423
+4,C,19CSE213,Operating Systems,Dr. L. Hema,AB4-424
+4,C,19CSE214,Theory of Computation,Dr. B. Yuvraj,AB4-425
+4,C,19HUM240,Psychology for Engineers,Dr. T. Meera,AB4-426
+4,C,19SSK211,Soft Skills I,Dr. G. Venkat,AB4-427
+4,C,22ADM201,Lessons from Mahabharata,Dr. A. Kavitha,AB4-428
+5,C,19CSE301,Computer Networks,Dr. Z. Harsha,AB5-531
+5,C,19CSE302,Design and Analysis of Algorithms,Dr. N. Arvind,AB5-532
+5,C,19CSE303,Embedded Systems,Dr. V. Kamesh,AB5-533
+5,C,19CSE304,Foundations of Data Science,Dr. U. Priya,AB5-534
+5,C,19CSE305,Machine Learning,Dr. H. Vijay,AB5-535
+5,C,19ENV300,Environmental Science,Dr. D. Sarvesh,AB5-536
+5,C,19SSK301,Soft Skills II,Dr. F. Kritika,AB5-537
+5,C,19CSE451,Principles of AI,Dr. K. Raghu,AB5-538
+6,C,19CSE311,Computer Security,Dr. X. Aishwarya,AB6-621
+6,C,19CSE312,Distributed Systems,Dr. G. Abhinav,AB6-622
+6,C,19CSE313,Principles of Programming Languages,Dr. M. Karthika,AB6-623
+6,C,19CSE314,Software Engineering,Dr. L. Rajeev,AB6-624
+6,C,19CSE332,Information Security,Dr. I. Mukund,AB6-625
+6,C,19CSE342,Wireless & Mobile Comm.,Dr. T. Charan,AB6-626
+6,C,19SSK311,Soft Skills III,Dr. E. Reshma,AB6-627
+1,D,19ENG111,Technical Communication,Dr. R. Nandita,AB1-141
+1,D,19MAT101,Single Variable Calculus,Dr. A. Ganapathy,AB1-142
+1,D,19MAT111,Multivariable Calculus,Dr. V. Sneha,AB1-143
+1,D,19MAT102,Matrix Algebra,Dr. B. Shankar,AB1-144
+1,D,19CSE100,Problem Solving and Algorithmic Thinking,Dr. H. Prakash,AB1-145
+1,D,19MEE100,Engineering Graphics - CAD,Dr. L. Soundarya,AB1-146
+1,D,19CSE101,Computer Systems Essentials,Dr. D. Tarun,AB1-147
+1,D,19CSE180,Computer Hardware Essentials,Dr. S. Kiran,AB1-148
+1,D,22ADM101,Foundations of Indian Heritage,Dr. J. Avinash,AB1-149
+1,D,22AVP103,Mastery over Mind (MAOM),Dr. G. Ayesha,AB1-150
+2,D,19CSE102,Computer Programming,Dr. Z. Meera,AB2-241
+2,D,19CSE103,User Interface Design,Dr. B. Neel,AB2-242
+2,D,19CSE111,Fundamentals of Data Structures,Dr. R. Varsha,AB2-243
+2,D,19EEE111,Electrical and Electronics Engineering,Dr. K. Ajay,AB2-244
+2,D,19EEE182,E&E Engineering Practice,Dr. V. Niranjan,AB2-245
+2,D,19MAT112,Linear Algebra,Dr. P. Swetha,AB2-246
+2,D,19MAT115,Discrete Mathematics,Dr. C. Naveena,AB2-247
+2,D,19MEE181,Manufacturing Practice,Dr. U. Sagar,AB2-248
+2,D,22ADM111,Glimpses of Glorious India,Dr. X. Ramesh,AB2-249
+3,D,19MAT201,Numerical Methods,Dr. D. Bhavya,AB3-341
+3,D,19MAT202,Optimization Techniques,Dr. L. Ranjit,AB3-342
+3,D,19CSE201,Advanced Programming,Dr. J. Sanjana,AB3-343
+3,D,19CSE202,Database Management System,Dr. E. Vignesh,AB3-344
+3,D,19CSE204,Object Oriented Paradigm,Dr. H. Brinda,AB3-345
+3,D,19ECE204,Digital Electronics and Systems,Dr. T. Krishna,AB3-346
+3,D,19ECE282,Digital Electronics Lab,Dr. A. Kavya,AB3-347
+3,D,22ADM211,Leadership from Ramayana,Dr. N. Mahadev,AB3-348
+4,D,19MAT205,Probability and Random Processes,Dr. Y. Sruthi,AB4-441
+4,D,19CSE211,Computer Org. and Arch.,Dr. K. Rajesh,AB4-442
+4,D,19CSE212,Data Structures and Algorithms,Dr. W. Ritu,AB4-443
+4,D,19CSE213,Operating Systems,Dr. U. Satya,AB4-444
+4,D,19CSE214,Theory of Computation,Dr. M. Aarthi,AB4-445
+4,D,19HUM240,Psychology for Engineers,Dr. B. Kanchana,AB4-446
+4,D,19SSK211,Soft Skills I,Dr. O. Bharat,AB4-447
+4,D,22ADM201,Lessons from Mahabharata,Dr. Q. Anil,AB4-448
+5,D,19CSE301,Computer Networks,Dr. I. Yuvika,AB5-541
+5,D,19CSE302,Design and Analysis of Algorithms,Dr. G. Surya,AB5-542
+5,D,19CSE303,Embedded Systems,Dr. Z. Rithvik,AB5-543
+5,D,19CSE304,Foundations of Data Science,Dr. N. Athira,AB5-544
+5,D,19CSE305,Machine Learning,Dr. E. Vinod,AB5-545
+5,D,19ENV300,Environmental Science,Dr. H. Priyanka,AB5-546
+5,D,19SSK301,Soft Skills II,Dr. T. Dev,AB5-547
+5,D,19CSE451,Principles of AI,Dr. A. Nithya,AB5-548
+6,D,19CSE311,Computer Security,Dr. F. Roshni,AB6-641
+6,D,19CSE312,Distributed Systems,Dr. V. Sudeep,AB6-642
+6,D,19CSE313,Principles of Programming Languages,Dr. J. Rani,AB6-643
+6,D,19CSE314,Software Engineering,Dr. X. Rohit,AB6-644
+6,D,19CSE332,Information Security,Dr. S. Nitesh,AB6-645
+6,D,19CSE342,Wireless & Mobile Comm.,Dr. M. Hema,AB6-646
+6,D,19SSK311,Soft Skills III,Dr. L. Manoj,AB6-647
+1,E,19ENG111,Technical Communication,Dr. K. Harshini,AB1-161
+1,E,19MAT101,Single Variable Calculus,Dr. P. Abhiram,AB1-162
+1,E,19MAT111,Multivariable Calculus,Dr. A. Sravanthi,AB1-163
+1,E,19MAT102,Matrix Algebra,Dr. U. Naveen,AB1-164
+1,E,19CSE100,Problem Solving and Algorithmic Thinking,Dr. M. Keerthi,AB1-165
+1,E,19MEE100,Engineering Graphics - CAD,Dr. L. Yaswanth,AB1-166
+1,E,19CSE101,Computer Systems Essentials,Dr. T. Ramesh,AB1-167
+1,E,19CSE180,Computer Hardware Essentials,Dr. Z. Divya,AB1-168
+1,E,22ADM101,Foundations of Indian Heritage,Dr. H. Sai Prakash,AB1-169
+1,E,22AVP103,Mastery over Mind (MAOM),Dr. W. Meghana,AB1-170
+2,E,19CSE102,Computer Programming,Dr. Q. Abinaya,AB2-261
+2,E,19CSE103,User Interface Design,Dr. V. Gaurav,AB2-262
+2,E,19CSE111,Fundamentals of Data Structures,Dr. F. Neeraja,AB2-263
+2,E,19EEE111,Electrical and Electronics Engineering,Dr. B. Surendra,AB2-264
+2,E,19EEE182,E&E Engineering Practice,Dr. D. Aakash,AB2-265
+2,E,19MAT112,Linear Algebra,Dr. J. Kalyani,AB2-266
+2,E,19MAT115,Discrete Mathematics,Dr. E. Vikram,AB2-267
+2,E,19MEE181,Manufacturing Practice,Dr. T. Swarna,AB2-268
+2,E,22ADM111,Glimpses of Glorious India,Dr. R. Abhishek,AB2-269
+3,E,19MAT201,Numerical Methods,Dr. O. Kiranmayi,AB3-361
+3,E,19MAT202,Optimization Techniques,Dr. I. Tarak,AB3-362
+3,E,19CSE201,Advanced Programming,Dr. C. Snehalatha,AB3-363
+3,E,19CSE202,Database Management System,Dr. Y. Anand,AB3-364
+3,E,19CSE204,Object Oriented Paradigm,Dr. N. Lavanya,AB3-365
+3,E,19ECE204,Digital Electronics and Systems,Dr. G. Murali,AB3-366
+3,E,19ECE282,Digital Electronics Lab,Dr. K. Anusha,AB3-367
+3,E,22ADM211,Leadership from Ramayana,Dr. X. Dhanush,AB3-368
+4,E,19MAT205,Probability and Random Processes,Dr. A. Mahathi,AB4-461
+4,E,19CSE211,Computer Org. and Arch.,Dr. F. Charan,AB4-462
+4,E,19CSE212,Data Structures and Algorithms,Dr. S. Kruthi,AB4-463
+4,E,19CSE213,Operating Systems,Dr. L. Nishanth,AB4-464
+4,E,19CSE214,Theory of Computation,Dr. V. Arya,AB4-465
+4,E,19HUM240,Psychology for Engineers,Dr. B. Krishna,AB4-466
+4,E,19SSK211,Soft Skills I,Dr. H. Deeksha,AB4-467
+4,E,22ADM201,Lessons from Mahabharata,Dr. P. Aravind,AB4-468
+5,E,19CSE301,Computer Networks,Dr. D. Kavitha,AB5-561
+5,E,19CSE302,Design and Analysis of Algorithms,Dr. R. Vinay,AB5-562
+5,E,19CSE303,Embedded Systems,Dr. Z. Ramya,AB5-563
+5,E,19CSE304,Foundations of Data Science,Dr. S. Hemanth,AB5-564
+5,E,19CSE305,Machine Learning,Dr. G. Sujatha,AB5-565
+5,E,19ENV300,Environmental Science,Dr. M. Yuvaan,AB5-566
+5,E,19SSK301,Soft Skills II,Dr. C. Vaishnavi,AB5-567
+5,E,19CSE451,Principles of AI,Dr. N. Raghav,AB5-568
+6,E,19CSE311,Computer Security,Dr. B. Mounika,AB6-661
+6,E,19CSE312,Distributed Systems,Dr. K. Shreyas,AB6-662
+6,E,19CSE313,Principles of Programming Languages,Dr. W. Tanvi,AB6-663
+6,E,19CSE314,Software Engineering,Dr. Y. Akash,AB6-664
+6,E,19CSE332,Information Security,Dr. A. Hemalatha,AB6-665
+6,E,19CSE342,Wireless & Mobile Comm.,Dr. U. Faizan,AB6-666
+6,E,19SSK311,Soft Skills III,Dr. J. Anagha,AB6-667
+,Venue
+1,F,19ENG111,Technical Communication,Dr. U. Sreedevi,AB1-171
+1,F,19MAT101,Single Variable Calculus,Dr. N. Avinash,AB1-172
+1,F,19MAT111,Multivariable Calculus,Dr. H. Shalini,AB1-173
+1,F,19MAT102,Matrix Algebra,Dr. Z. Akhil,AB1-174
+1,F,19CSE100,Problem Solving and Algorithmic Thinking,Dr. C. Sneha,AB1-175
+1,F,19MEE100,Engineering Graphics - CAD,Dr. X. Lokesh,AB1-176
+1,F,19CSE101,Computer Systems Essentials,Dr. A. Rajiv,AB1-177
+1,F,19CSE180,Computer Hardware Essentials,Dr. M. Bhargavi,AB1-178
+1,F,22ADM101,Foundations of Indian Heritage,Dr. V. Dhruv,AB1-179
+1,F,22AVP103,Mastery over Mind (MAOM),Dr. S. Harini,AB1-180
+2,F,19CSE102,Computer Programming,Dr. B. Arvind,AB2-271
+2,F,19CSE103,User Interface Design,Dr. Q. Lekhana,AB2-272
+2,F,19CSE111,Fundamentals of Data Structures,Dr. R. Vijay,AB2-273
+2,F,19EEE111,Electrical and Electronics Engineering,Dr. E. Manasa,AB2-274
+2,F,19EEE182,E&E Engineering Practice,Dr. G. Ashwin,AB2-275
+2,F,19MAT112,Linear Algebra,Dr. J. Revathi,AB2-276
+2,F,19MAT115,Discrete Mathematics,Dr. L. Sudheer,AB2-277
+2,F,19MEE181,Manufacturing Practice,Dr. T. Neha,AB2-278
+2,F,22ADM111,Glimpses of Glorious India,Dr. F. Keshav,AB2-279
+3,F,19MAT201,Numerical Methods,Dr. I. Trisha,AB3-371
+3,F,19MAT202,Optimization Techniques,Dr. K. Rajesh,AB3-372
+3,F,19CSE201,Advanced Programming,Dr. D. Sanjana,AB3-373
+3,F,19CSE202,Database Management System,Dr. Y. Mohan,AB3-374
+3,F,19CSE204,Object Oriented Paradigm,Dr. N. Pratibha,AB3-375
+3,F,19ECE204,Digital Electronics and Systems,Dr. A. Roshan,AB3-376
+3,F,19ECE282,Digital Electronics Lab,Dr. H. Kavya,AB3-377
+3,F,22ADM211,Leadership from Ramayana,Dr. L. Devan,AB3-378
+4,F,19MAT205,Probability and Random Processes,Dr. W. Gayatri,AB4-471
+4,F,19CSE211,Computer Org. and Arch.,Dr. X. Sumanth,AB4-472
+4,F,19CSE212,Data Structures and Algorithms,Dr. V. Neelima,AB4-473
+4,F,19CSE213,Operating Systems,Dr. U. Sandeep,AB4-474
+4,F,19CSE214,Theory of Computation,Dr. M. Meera,AB4-475
+4,F,19HUM240,Psychology for Engineers,Dr. P. Rajalakshmi,AB4-476
+4,F,19SSK211,Soft Skills I,Dr. S. Karthik,AB4-477
+4,F,22ADM201,Lessons from Mahabharata,Dr. O. Aditi,AB4-478
+5,F,19CSE301,Computer Networks,Dr. G. Rakesh,AB5-571
+5,F,19CSE302,Design and Analysis of Algorithms,Dr. T. Yamini,AB5-572
+5,F,19CSE303,Embedded Systems,Dr. B. Arun,AB5-573
+5,F,19CSE304,Foundations of Data Science,Dr. C. Preethi,AB5-574
+5,F,19CSE305,Machine Learning,Dr. F. Rithvik,AB5-575
+5,F,19ENV300,Environmental Science,Dr. E. Nishitha,AB5-576
+5,F,19SSK301,Soft Skills II,Dr. J. Mahadev,AB5-577
+5,F,19CSE451,Principles of AI,Dr. Z. Rekha,AB5-578
+6,F,19CSE311,Computer Security,Dr. D. Bhavana,AB6-671
+6,F,19CSE312,Distributed Systems,Dr. K. Suraj,AB6-672
+6,F,19CSE313,Principles of Programming Languages,Dr. H. Pranavi,AB6-673
+6,F,19CSE314,Software Engineering,Dr. A. Shashank,AB6-674
+6,F,19CSE332,Information Security,Dr. M. Sravya,AB6-675
+6,F,19CSE342,Wireless & Mobile Comm.,Dr. N. Nikhil,AB6-676
+6,F,19SSK311,Soft Skills III,Dr. R. Anusha,AB6-677
+
