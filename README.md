@@ -25,3 +25,29 @@ Easy to customize and scale
 | Deployment    | GitHub + Local Flask Server         |
 
 
+Smart AI Timetable Generator (CSP-based)
+AI-driven scheduler built using Constraint Satisfaction Problem (CSP) techniques.
+
+Automatically generates conflict-free timetables for classes, teachers, and rooms.
+
+Handles hard constraints like:
+
+No teacher or student group in two places at once
+
+Room availability and capacity
+
+Subject-teacher mapping
+
+Supports soft constraints like:
+
+Preferred time slots
+
+Balanced workload across days
+
+Uses backtracking, forward checking, and MRV heuristics for efficient solving.
+
+Customizable for schools, colleges, and training institutions.
+
+Built using Python (or your language of choice) and supports JSON/CSV input for data
+
+
